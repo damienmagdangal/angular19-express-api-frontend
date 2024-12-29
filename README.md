@@ -6,13 +6,13 @@ ng generate environments
 ```
 
 Then add the following lines under environment.development:
- API_URL: 'http://localhost:3000',
- API_KEY: yourApiKey,
- API_SECRET:
+ #API_URL: 'http://localhost:3000',
+ #API_KEY: yourApiKey,
+ #API_SECRET:
 
 
 
-# WebApiCapstone
+# Angular19 - Express - Axios - Frontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
 
