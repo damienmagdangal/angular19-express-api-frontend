@@ -1,4 +1,5 @@
 Prerequistes:
+
 Environments can be setup using the following command
 
 ```bash
@@ -12,7 +13,6 @@ Then add the following lines under environment.development:
  API_KEY: yourApiKey,
  
  API_SECRET: yourSecretApiKey
-
 
 
 # Angular19 - Express - Axios - Frontend
